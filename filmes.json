@@ -29,6 +29,46 @@
       "urlIMDb": "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_3",
       "genero": "Comédia",
       "id": 3
+    },
+    {
+      "titulo": "Coringa",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/?ref_=hm_tpks_tt_4_pd_tp1_t1",
+      "genero": "Drama",
+      "id": 4
+    },
+    {
+      "titulo": "Ford vs Ferrari",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-11-14T03:00:00.000Z",
+      "descricao": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt1950186/?ref_=hm_tpks_tt_10_pd_tp1_t1",
+      "genero": "Ação",
+      "id": 5
+    },
+    {
+      "titulo": "Parasita",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-11-07T03:00:00.000Z",
+      "descricao": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "nota": 8.6,
+      "urlIMDb": "imdb.com/title/tt6751668/?ref_=hm_tpks_tt_20_pd_tp1_t1",
+      "genero": "Comédia",
+      "id": 6
+    },
+    {
+      "titulo": "It - Capítulo 2",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-09-05T03:00:00.000Z",
+      "descricao": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+      "nota": 6.5,
+      "urlIMDb": "https://www.imdb.com/title/tt7349950/?ref_=hm_tpks_tt_26_pd_tp1_t1",
+      "genero": "Terror",
+      "id": 7
     }
   ]
 }
