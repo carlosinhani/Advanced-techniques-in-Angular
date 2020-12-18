@@ -69,6 +69,46 @@
       "urlIMDb": "https://www.imdb.com/title/tt7349950/?ref_=hm_tpks_tt_26_pd_tp1_t1",
       "genero": "Terror",
       "id": 7
+    },
+    {
+      "titulo": "Invocação do Mal",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2013-09-13T03:00:00.000Z",
+      "descricao": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt1457767/?ref_=hm_tpks_tt_8_pd_tp1_t1",
+      "genero": "Terror",
+      "id": 8
+    },
+    {
+      "titulo": "Mulher-Maravilha",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNWY2NWE0NWEtZGUwMC00NWMwLTkyNzUtNmIxMmIyYzA0MjNiXkEyXkFqcGdeQXVyMTA2OTQ3MTUy._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2020-12-17T03:00:00.000Z",
+      "descricao": "Fast forward to the 1980s as Wonder Woman's next big screen adventure finds her facing two all-new foes: Max Lord and The Cheetah.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt7126948/?ref_=watch_pop_tt_11",
+      "genero": "Ação",
+      "id": 9
+    },
+    {
+      "titulo": "Mulan",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNDliY2E1MjUtNzZkOS00MzJlLTgyOGEtZDg4MTI1NzZkMTBhXkEyXkFqcGdeQXVyNjMwMzc3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2020-12-04T03:00:00.000Z",
+      "descricao": "A young Chinese maiden disguises herself as a male warrior in order to save her father.",
+      "nota": 5.6,
+      "urlIMDb": "https://www.imdb.com/title/tt4566758/?ref_=watch_pop_tt_6",
+      "genero": "Aventura",
+      "id": 10
+    },
+    {
+      "titulo": " Ava",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMzMTg1MjgtOWNhYy00NmZmLWExOTctMjA2OTZhZDFkNDhhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2020-09-25T03:00:00.000Z",
+      "descricao": "Ava is a deadly assassin who works for a black ops organization, traveling the globe specializing in high profile hits. When a job goes dangerously wrong she is forced to fight for her own survival.",
+      "nota": 5.3,
+      "urlIMDb": "https://www.imdb.com/title/tt8784956/?ref_=watch_pop_tt_9",
+      "genero": "Ação",
+      "id": 11
     }
   ]
 }
