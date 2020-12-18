@@ -9,6 +9,26 @@
       "nota": 7.3,
       "urlIMDb": "https://www.imdb.com/title/tt0119654/",
       "genero": "Ação"
+    },
+    {
+      "titulo": "Vingadores: Ultimato",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-25T03:00:00.000Z",
+      "descricao": "    After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.  ",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0",
+      "genero": "Ação",
+      "id": 2
+    },
+    {
+      "titulo": "Era Uma Vez Em... Hollywood",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-08-15T03:00:00.000Z",
+      "descricao": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+      "nota": 7.6,
+      "urlIMDb": "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_3",
+      "genero": "Comédia",
+      "id": 3
     }
   ]
 }
