@@ -109,6 +109,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt8784956/?ref_=watch_pop_tt_9",
       "genero": "Ação",
       "id": 11
+    },
+    {
+      "titulo": "Doutor Sono",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-11-09T03:00:00.000Z",
+      "descricao": "Years following the events of O Iluminado (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt5606664/?ref_=hm_tpks_tt_13_pd_tp1_t1",
+      "genero": "Terror",
+      "id": 12
+    },
+    {
+      "titulo": "Gente Grande 2",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNTZkZDhjZTEtZjA5MC00MDU2LTk3NDItNzA2YzQ4Y2Q5NjZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2016-08-16T03:00:00.000Z",
+      "descricao": "After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and four hundred costumed party crashers sometimes crazy follows you.",
+      "nota": 5.4,
+      "urlIMDb": "https://www.imdb.com/title/tt2191701/?ref_=nv_sr_srsg_0",
+      "genero": "Comédia",
+      "id": 13
     }
   ]
 }
