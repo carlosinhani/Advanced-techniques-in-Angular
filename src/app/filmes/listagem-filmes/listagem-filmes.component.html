@@ -1,7 +1,7 @@
 <mat-toolbar class="app-title">Filmes Cadastrados</mat-toolbar>
-<div class="home-content">
+<div class="home-content" infinite-scroll (scrolled)="onScroll()">
 
-  <mat-card class="home-card" *ngFor="let filme of filmes">
+    <mat-card class="home-card" *ngFor="let filme of filmes">       
     <mat-card-header>
       <div mat-card-avatar></div>
       <mat-card-title>{{filme.titulo}}</mat-card-title>
