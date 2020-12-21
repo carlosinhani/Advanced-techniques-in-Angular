@@ -1,7 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup } from '@angular/forms';
 
+import { debounceTime } from 'rxjs/operators';
 import { FilmesService } from 'src/app/core/filmes.service';
+import { ConfigPrams } from 'src/app/shared/models/config-prams';
 import { Filme } from 'src/app/shared/models/filme';
 
 @Component({
@@ -10,11 +12,13 @@ import { Filme } from 'src/app/shared/models/filme';
   styleUrls: ['./listagem-filmes.component.scss']
 })
 export class ListagemFilmesComponent implements OnInit {
+
+  readonly semFoto = 'https://www.termoparts.com.br/wp-content/uploads/2017/10/no-image.jpg';
   
-  readonly qtdPagina = 4;
-  pagina = 0;
-  texto: string;
-  genero: string
+  config: ConfigPrams = {
+    pagina: 0,
+    limite: 4
+  };
   filmes: Filme[] = [];
   filtrosListagem: FormGroup;
   generos: Array<string> 
@@ -29,11 +33,15 @@ export class ListagemFilmesComponent implements OnInit {
       genero: ['']
     });
 
-    this.filtrosListagem.get('texto').valueChanges.subscribe((val: string) => {
-        console.log('alteracao valor texto', val);
+    this.filtrosListagem.get('texto').valueChanges
+        .pipe(debounceTime(400))
+        .subscribe((val: string) => {
+        this.config.pesquisa = val;
+        this.resetarConsulta();
     });
     this.filtrosListagem.get('genero').valueChanges.subscribe((val: string) => {
-      console.log('alteracao valor genero', val);
+        this.config.campo = {tipo: 'genero', valor: val};
+        this.resetarConsulta();
     });
 
     this.generos = [
@@ -56,10 +64,15 @@ export class ListagemFilmesComponent implements OnInit {
   }
 
   private listarFilmes(): void {
-      this.pagina++;
-      this.filmeService.listar(this.pagina, this.qtdPagina)
+      this.config.pagina++;
+      this.filmeService.listar(this.config)
       .subscribe((filmes: Filme[]) => this.filmes.push(...filmes));
   }
   
+  private resetarConsulta(): void {
+    this.config.pagina = 0;
+    this.filmes = [];
+    this.listarFilmes();
+  }
 
 }
