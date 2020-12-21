@@ -14,6 +14,7 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
 
+-----------------------------------------------------------------------------------------
 ## Instalação
 
 1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`

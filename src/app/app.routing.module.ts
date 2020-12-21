@@ -1,8 +1,10 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+
 import { FilmesModule } from './filmes/filmes.module';
 import { CadastroFilmesComponent } from './filmes/cadastro-filmes/cadastro-filmes.component';
 import { ListagemFilmesComponent } from './filmes/listagem-filmes/listagem-filmes.component';
+import { VisualizarFilmesComponent } from './filmes/visualizar-filmes/visualizar-filmes.component';
 
 const routes: Routes = [
 
@@ -17,6 +19,10 @@ const routes: Routes = [
       {
         path: '',
         component: ListagemFilmesComponent
+      },
+      {
+        path: ':id',
+        component: VisualizarFilmesComponent
       },
       {
         path: 'cadastro',

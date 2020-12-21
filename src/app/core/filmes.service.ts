@@ -25,4 +25,8 @@ export class FilmesService {
     const ConfigPrams = this.configService.configurarParamentros(config);
     return this.http.get<Filme[]>(url, {params: ConfigPrams});
   }
+
+  visualizar(id: number): Observable<Filme>{
+    return this.http.get<Filme>(url + id);
+  }
 }
