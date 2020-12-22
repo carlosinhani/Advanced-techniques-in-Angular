@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
+import { DomSanitizer } from '@angular/platform-browser';
 import { ActivatedRoute, Router } from '@angular/router';
 
 import { FilmesService } from 'src/app/core/filmes.service';
@@ -19,6 +20,7 @@ export class VisualizarFilmesComponent implements OnInit {
   id: number;
 
   constructor(public dialog: MatDialog,
+              public sanitazer: DomSanitizer,
               private activatedRoute: ActivatedRoute,
               private router: Router,
               private filmesService: FilmesService) { }
@@ -29,8 +31,9 @@ export class VisualizarFilmesComponent implements OnInit {
   }
 
   editar():void {
-    this.router.navigateByUrl('/filmes/cadastro' + this.id);
+    this.router.navigateByUrl('/filmes/cadastro/' + this.id);
   }
+
 
   excluir(): void {
     const config = {

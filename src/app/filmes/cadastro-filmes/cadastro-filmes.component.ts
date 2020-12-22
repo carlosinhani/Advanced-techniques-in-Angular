@@ -83,6 +83,7 @@ export class CadastroFilmesComponent implements OnInit {
       descricao: [filme.descricao],
       nota: [filme.nota, [Validators.required, Validators.min(0), Validators.max(10)]],
       urlIMDb: [filme.urlIMDb, [Validators.minLength(10)]],
+      urlVideo: [filme.urlVideo, [Validators.minLength(10)]],
       genero: [filme.genero, [Validators.required]]
     });
   }
@@ -96,6 +97,7 @@ export class CadastroFilmesComponent implements OnInit {
       descricao: null,
       nota: null,
       urlIMDb: null,
+      urlVideo: null,
       genero: null
     }as Filme
   }

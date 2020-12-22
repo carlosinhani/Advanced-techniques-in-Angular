@@ -4,15 +4,23 @@
     <mat-list-item> Gênero: {{filme.genero}}</mat-list-item>
     <mat-list-item class="quebrar-linha"> Descrição: {{filme.descricao}}</mat-list-item>
     <mat-list-item> Nota: <a [href]="filme.urlIMDb" target="_blank">{{filme.nota}}</a></mat-list-item>
-    <img mat-card-image [src]="filme.urlFoto || semFoto">
+    <a [href]="filme.urlVideo" target="_blank">
+        <button class="buttonTrailer" 
+        color="primary"
+        mat-raised-button >Trailer</button></a>
+    <img mat-card-image [src]="filme.urlFoto || semFoto"> 
 </mat-list>
+
 
 <mat-card>
     <mat-card-actions>
        <button 
+       class="buttonEditar"
        color="accent"
        mat-raised-button (click)="editar()">Editar</button>
-       <button 
+      
+       <button
+       class="buttonExcluir"
        color="warn"
        mat-raised-button (click)="excluir()">Excluir</button>
     </mat-card-actions>

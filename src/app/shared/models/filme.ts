@@ -1,3 +1,4 @@
+
 export interface Filme {
     id?: number;
     titulo: string;
@@ -5,7 +6,8 @@ export interface Filme {
     dtLancamento: Date;
     descricao?: string;
     nota: number;
-    urlIMDb?: string;
+    urlIMDb?: string; 
+    urlVideo?: string; 
     genero: string;
 }
 

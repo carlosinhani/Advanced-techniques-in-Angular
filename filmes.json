@@ -7,8 +7,9 @@
       "descricao": "Depois dos acontecimentos devastadores de Vingadores: Guerra Infinita (2018), o universo está em ruínas. Com a ajuda dos aliados restantes, os Vingadores se reúnem mais uma vez para reverter as ações de Thanos e restaurar o equilíbrio do universo.",
       "nota": 8.4,
       "urlIMDb": "https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0",
+      "urlVideo": "https://www.youtube.com/watch?v=VBv8ILgZMbU&ab_channel=FilmesBR",
       "genero": "Ação",
-      "id": 2
+      "id": 1
     },
     {
       "titulo": "Era Uma Vez Em... Hollywood",
@@ -17,8 +18,9 @@
       "descricao": "Um ator de televisão decadente e seus dublês se esforçam para alcançar fama e sucesso nos anos finais da Idade de Ouro de Hollywood em 1969, Los Angeles.",
       "nota": 7.6,
       "urlIMDb": "https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_3",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi1385741849?playlistId=tt7131622&ref_=tt_ov_vi",
       "genero": "Comédia",
-      "id": 3
+      "id": 2
     },
     {
       "titulo": "Coringa",
@@ -27,8 +29,9 @@
       "descricao": "Em Gotham City, o comediante Arthur Fleck, com problemas mentais, é desprezado e maltratado pela sociedade. Ele então embarca em uma espiral descendente de revolução e crime sangrento. Este caminho o coloca cara a cara com seu alter ego: o Coringa.",
       "nota": 8.5,
       "urlIMDb": "https://www.imdb.com/title/tt7286456/?ref_=hm_tpks_tt_4_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/title/tt7286456/videoplayer/vi1723318041?ref_=nv_sr_srsg_1",
       "genero": "Drama",
-      "id": 4
+      "id": 3
     },
     {
       "titulo": "Ford vs Ferrari",
@@ -37,8 +40,9 @@
       "descricao": "O designer de carros americano Carroll Shelby e o piloto Ken Miles lutam contra a interferência corporativa e as leis da física para construir um carro de corrida revolucionário para a Ford, a fim de derrotar a Ferrari nas 24 Horas de Le Mans em 1966.",
       "nota": 8.1,
       "urlIMDb": "https://www.imdb.com/title/tt1950186/?ref_=hm_tpks_tt_10_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/title/tt1950186/videoplayer/vi1737539353?ref_=nv_sr_srsg_1",
       "genero": "Ação",
-      "id": 5
+      "id": 4
     },
     {
       "titulo": "Parasita",
@@ -47,8 +51,9 @@
       "descricao": "A ganância e a discriminação de classe ameaçam a relação simbiótica recém-formada entre a rica família Park e o destituído clã Kim.",
       "nota": 8.6,
       "urlIMDb": "imdb.com/title/tt6751668/?ref_=hm_tpks_tt_20_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/title/tt6751668/videoplayer/vi1015463705?ref_=nv_sr_srsg_1",
       "genero": "Comédia",
-      "id": 6
+      "id": 5
     },
     {
       "titulo": "It - Capítulo 2",
@@ -57,8 +62,9 @@
       "descricao": "Vinte e sete anos após seu primeiro encontro com o terrível Pennywise, o Losers Club cresceu e se mudou, até que um telefonema devastador os trouxe de volta.",
       "nota": 6.5,
       "urlIMDb": "https://www.imdb.com/title/tt7349950/?ref_=hm_tpks_tt_26_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/title/tt7349950/videoplayer/vi1189329945?ref_=tt_pv_vi_aiv_3",
       "genero": "Terror",
-      "id": 7
+      "id": 6
     },
     {
       "titulo": "Invocação do Mal",
@@ -67,8 +73,9 @@
       "descricao": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar uma família aterrorizada por uma presença sombria em sua casa de fazenda.",
       "nota": 7.5,
       "urlIMDb": "https://www.imdb.com/title/tt1457767/?ref_=hm_tpks_tt_8_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi3819874585?playlistId=tt1457767&ref_=tt_ov_vi",
       "genero": "Terror",
-      "id": 8
+      "id": 7
     },
     {
       "titulo": "Mulher-Maravilha",
@@ -77,8 +84,9 @@
       "descricao": "Avance rapidamente para a década de 1980, quando a próxima aventura da Mulher Maravilha no cinema a encontra enfrentando dois novos inimigos: Max Lord e The Cheetah.",
       "nota": 7.3,
       "urlIMDb": "https://www.imdb.com/title/tt7126948/?ref_=watch_pop_tt_11",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi3240214809?playlistId=tt7126948&ref_=tt_ov_vi",
       "genero": "Ação",
-      "id": 9
+      "id": 8
     },
     {
       "titulo": "Mulan ",
@@ -87,8 +95,9 @@
       "descricao": "Uma jovem chinesa se disfarça de guerreiro para salvar seu pai.",
       "nota": 5.6,
       "urlIMDb": "https://www.imdb.com/title/tt4566758/?ref_=watch_pop_tt_6",
+      "urlVideo": "https://www.imdb.com/title/tt4566758/videoplayer/vi3814112793?ref_=tt_pv_vi_aiv_2",
       "genero": "Aventura",
-      "id": 10
+      "id": 9
     },
     {
       "titulo": " Ava",
@@ -97,8 +106,9 @@
       "descricao": "Ava é uma assassina mortal que trabalha para uma organização black ops, viajando pelo mundo e se especializando em sucessos de alto perfil. Quando um trabalho dá perigosamente errado, ela é forçada a lutar por sua própria sobrevivência.",
       "nota": 5.3,
       "urlIMDb": "https://www.imdb.com/title/tt8784956/?ref_=watch_pop_tt_9",
+      "urlVideo": "https://www.imdb.com/title/tt8784956/videoplayer/vi2501164569?ref_=nv_sr_srsg_1",
       "genero": "Ação",
-      "id": 11
+      "id": 10
     },
     {
       "titulo": "Doutor Sono",
@@ -107,8 +117,9 @@
       "descricao": "Anos após os acontecimentos de O Iluminado (1980), um agora adulto Dan Torrance deve proteger uma jovem com poderes semelhantes de um culto conhecido como The True Knot, que ataca crianças com poderes para permanecerem imortais.",
       "nota": 7.3,
       "urlIMDb": "https://www.imdb.com/title/tt5606664/?ref_=hm_tpks_tt_13_pd_tp1_t1",
+      "urlVideo": "https://www.imdb.com/title/tt5606664/videoplayer/vi212254489?ref_=nv_sr_srsg_1",
       "genero": "Terror",
-      "id": 12
+      "id": 11
     },
     {
       "titulo": "Gente Grande 2",
@@ -117,8 +128,9 @@
       "descricao": "Depois de se mudar com sua família de volta para sua cidade natal para ficar com seus amigos e filhos, Lenny descobre que entre velhos valentões, novos valentões, motoristas de ônibus esquizofrênicos, policiais bêbados em esquis e quatrocentos penetras fantasiados, às vezes loucos seguem você.",
       "nota": 5.4,
       "urlIMDb": "https://www.imdb.com/title/tt2191701/?ref_=nv_sr_srsg_0",
+      "urlVideo": "https://www.imdb.com/title/tt2191701/videoplayer/vi48539161?ref_=nv_sr_srsg_1",
       "genero": "Comédia",
-      "id": 13
+      "id": 12
     },
     {
       "titulo": "O Grande Mestre 4",
@@ -127,8 +139,9 @@
       "descricao": "O mestre de Kung Fu viaja para os EUA, onde seu aluno perturbou a comunidade local de artes marciais ao abrir uma escola de Wing Chun.",
       "nota": 7.1,
       "urlIMDb": "https://www.imdb.com/title/tt2076298/?ref_=nv_sr_srsg_0",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi503365401?playlistId=tt2076298&ref_=tt_ov_vi",
       "genero": "Ação",
-      "id": 14
+      "id": 13
     },
     {
       "titulo": "O Jovem Messias",
@@ -137,7 +150,19 @@
       "descricao": "Conta a história de Jesus Cristo aos sete anos, quando ele e sua família partiam do Egito para voltar para casa em Nazaré. Contado a partir de sua perspectiva de infância, segue o jovem Jesus à medida que ele cresce em sua identidade religiosa.",
       "nota": 5.6,
       "urlIMDb": "https://www.imdb.com/title/tt1002563/?ref_=fn_al_tt_1",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi2382672665?playlistId=tt1002563&ref_=tt_ov_vi",
       "genero": "Drama",
+      "id": 14
+    },
+    {
+      "titulo": "Tudo Bem No Natal Que Vem ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYTg2OTQzZjgtOTIxNy00Y2UzLTlkYWYtOTY0MTZkMGYyNjFhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2020-12-03T03:00:00.000Z",
+      "descricao": "Preso em um loop temporal em que é Natal para sempre, um pai de família que odeia o feriado começa a aprender lições valiosas sobre o que é importante na vida.",
+      "nota": 6.7,
+      "urlIMDb": "https://www.imdb.com/title/tt13354204/?ref_=nv_sr_srsg_0",
+      "urlVideo": "https://www.imdb.com/video/imdb/vi4224434457?playlistId=tt13354204&ref_=tt_ov_vi",
+      "genero": "Comédia",
       "id": 15
     }
   ]
