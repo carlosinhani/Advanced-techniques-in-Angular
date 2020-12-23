@@ -1,10 +1,10 @@
 <mat-sidenav-container class="sidenav-container" (backdropClick)="closeSideNav()">
   <mat-sidenav #sidenav class="sidenav" fixedInViewport="true" >
-    <mat-toolbar color="primary">Menu</mat-toolbar>
+    <mat-toolbar class="header-toolbar">Menu</mat-toolbar>
     <mat-nav-list (click)="closeSideNav()">
-      <a mat-list-item [routerLink]="['/filmes']">Inicial</a>
+      <a class="inicial" mat-list-item [routerLink]="['/filmes']">Inicial</a>
       <mat-divider></mat-divider>
-      <a mat-list-item [routerLink]="['/filmes/cadastro']">Cadastrar novo Filme</a>
+      <a class="inicial" mat-list-item [routerLink]="['/filmes/cadastro']">Cadastrar novo Filme</a>
       <mat-divider></mat-divider>
     </mat-nav-list>
   </mat-sidenav>
