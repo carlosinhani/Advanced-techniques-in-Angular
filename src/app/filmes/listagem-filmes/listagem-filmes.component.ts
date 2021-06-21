@@ -15,15 +15,15 @@ import { Filme } from 'src/app/shared/models/filme';
 export class ListagemFilmesComponent implements OnInit {
 
   readonly semFoto = 'https://www.termoparts.com.br/wp-content/uploads/2017/10/no-image.jpg';
-  
+
   config: ConfigPrams = {
     pagina: 0,
     limite: 4
   };
   filmes: Filme[] = [];
   filtrosListagem: FormGroup;
-  generos: Array<string> 
-  
+  generos: Array<string>
+
 
   constructor(private filmeService: FilmesService,
               private fb: FormBuilder,
@@ -56,13 +56,14 @@ export class ListagemFilmesComponent implements OnInit {
       'Drama'
     ];
 
-    
+
 
     this.listarFilmes();
   }
 
   onScroll(): void {
     this.listarFilmes();
+    console.log('carregando filmes' + this.filmes)
   }
 
   abrir(id: number): void {
@@ -74,7 +75,7 @@ export class ListagemFilmesComponent implements OnInit {
       this.filmeService.listar(this.config)
       .subscribe((filmes: Filme[]) => this.filmes.push(...filmes));
   }
-  
+
   private resetarConsulta(): void {
     this.config.pagina = 0;
     this.filmes = [];
