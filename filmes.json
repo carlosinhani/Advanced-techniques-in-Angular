@@ -79,7 +79,7 @@
     },
     {
       "titulo": "Mulher-Maravilha",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNWY2NWE0NWEtZGUwMC00NWMwLTkyNzUtNmIxMmIyYzA0MjNiXkEyXkFqcGdeQXVyMTA2OTQ3MTUy._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "urlFoto": "https://static1.purebreak.com.br/articles/7/91/68/7/@/352165--mulher-maravilha-1984-estreara-dia-4-d-950x0-1.jpg",
       "dtLancamento": "2020-12-17T03:00:00.000Z",
       "descricao": "Avance rapidamente para a década de 1980, quando a próxima aventura da Mulher Maravilha no cinema a encontra enfrentando dois novos inimigos: Max Lord e The Cheetah.",
       "nota": 7.3,
@@ -164,6 +164,17 @@
       "urlVideo": "https://www.imdb.com/video/imdb/vi4224434457?playlistId=tt13354204&ref_=tt_ov_vi",
       "genero": "Comédia",
       "id": 15
+    },
+    {
+      "titulo": "Infiltrado na Klan",
+      "urlFoto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeOgKwBtyuDTj_DXbBIXa_oCmB9s5A3PbQhfGBxfZrsBS01LFG",
+      "dtLancamento": "2018-11-22T02:00:00.000Z",
+      "descricao": "Um afro americano policial de Colorado, consegue se infiltrar-se com sucesso na filial local da Ku Klux Klan com a ajuda de um judeu que eventualmente se torna seu líder. Baseado em eventos reais.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt7349662/?ref_=nv_sr_srsg_0",
+      "urlVideo": "https://www.imdb.com/video/vi2444933657?playlistId=tt7349662&ref_=tt_ov_vi",
+      "genero": "Ação",
+      "id": 16
     }
   ]
 }
